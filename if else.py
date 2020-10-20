@@ -1,10 +1,9 @@
-n=int(input("NUmber:"))
+n=int(input("Number:"))
 if(n<0):
-    print("NEgative Number")
+    print("Negative Number")
 
 else:
     print("Positive Number")
 
-print(50+9)
 
     
